@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcologicalModeling", "EcologicalModeling.csproj", "{FBA2F113-DD2B-421F-91BA-6BFA9ACE59A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EcologicalModelingLib", "EcologicalModelingLib\EcologicalModelingLib.csproj", "{26C205B2-F3AC-4A83-9104-69F4A085D0BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FBA2F113-DD2B-421F-91BA-6BFA9ACE59A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FBA2F113-DD2B-421F-91BA-6BFA9ACE59A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FBA2F113-DD2B-421F-91BA-6BFA9ACE59A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FBA2F113-DD2B-421F-91BA-6BFA9ACE59A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26C205B2-F3AC-4A83-9104-69F4A085D0BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26C205B2-F3AC-4A83-9104-69F4A085D0BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26C205B2-F3AC-4A83-9104-69F4A085D0BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26C205B2-F3AC-4A83-9104-69F4A085D0BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28E2EA83-7C10-4B2C-8665-D288AA77BD74}
+	EndGlobalSection
+EndGlobal
